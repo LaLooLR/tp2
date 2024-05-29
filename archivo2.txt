@@ -1,7 +1,5 @@
 Hola mundo
 
-<<<<<<< HEAD
 modifica en rama master
-=======
 commit hotfix2
->>>>>>> hotfix2
+se agrega commit rama master 
