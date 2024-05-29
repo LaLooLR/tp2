@@ -6,3 +6,5 @@ se modifica archivo 1
 en rama hotfix
 
 nueva linea fusionada
+
+se modifica en rama master
