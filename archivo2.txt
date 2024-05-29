@@ -1,9 +1,10 @@
 Hola mundo
 
 modifica en rama master
-<<<<<<< HEAD
+
 commit hotfix2
 se agrega commit rama master 
-=======
+
 modifica archivo en rama hotfix3
->>>>>>> hotfix3
+
+ultimo coomit rama hotfix
