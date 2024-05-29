@@ -5,8 +5,7 @@ se modifica en rama hotfix
 
 modifica rama master
 
-<<<<<<< HEAD
 modifica en rama master
-=======
 modifica en rama hotfix2
->>>>>>> hotfix2
+
+se agrega commit en rama master
