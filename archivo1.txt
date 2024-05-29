@@ -11,11 +11,8 @@ modifica en rama hotfix2
 se agrega commit en rama master
 se agrega commit en rama hotfix3
 modifica archivo en rama hotfix3
-<<<<<<< HEAD
-
-utlimo commit rama master antes de fusion
-=======
 anteultimo commit
 
 ultimo commit
->>>>>>> hotfix4
+
+fin
