@@ -1,0 +1,10 @@
+Hola mundo
+
+se modifica archivo 2
+en rama master
+
+se modifica archivo 2 en rama hotfix2
+
+commit en rama master
+
+COMMIT HOTFIX 4

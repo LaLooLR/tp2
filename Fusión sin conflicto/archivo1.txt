@@ -1,0 +1,20 @@
+Hola mundo!
+
+commit en rama master
+
+se modifica archivo 1
+en rama hotfix
+
+nueva linea fusionada
+
+se modifica en rama master
+
+commit en rama master
+
+commit en rama hotfix3
+
+comimt rama master
+
+COMMIT RAMA MASTER
+
+ultimo commit rama master
